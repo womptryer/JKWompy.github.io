@@ -3,6 +3,7 @@ layout: post
 title: "Second Post!"
 date: 2018-05-11 10:50:24 -0700
 catogories: uncatogorized
+author: JKWompy
 ---
 
 ##### WHATS POPPIN 

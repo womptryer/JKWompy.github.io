@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Google Maps</title>
+</head>
+
+<body>
+<script type="text/javascript">
+var distance = prompt("How many miles are you traveling?");
+var speed = prompt("How many miles are you going per hour?");
+var time = distance / speed;
+var hours = Math.floor(time);
+var minutes = (time - hours) * 60;
+var bean = Math.floor(minutes);
+document.write( hours + " hours and " + bean + " minutes");
+</script>
+</body>
+</html>
